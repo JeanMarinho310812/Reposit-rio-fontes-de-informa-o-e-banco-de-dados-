@@ -97,6 +97,57 @@ Projetos envolvendo:
 - Indicadores e controles
 
 > 🚧 Novos projetos serão adicionados conforme avanço nos meus estudos.
+>
+> <br><br>
+
+> > *"Aprendendo, desenvolvendo e transformando conhecimento em prática."*
+> ## 🚀 Futuro Profissional
+
+🎯 Meu objetivo é atuar na área de *Indústria 4.0*, com foco em:
+
+- ⚙️ *Analista de Processos*
+- 📊 *Gestão de Qualidade*
+- 🤖 *Tecnologias da Indústria 4.0*
+
+Busco desenvolver meus conhecimentos em *tecnologia, processos e qualidade*, contribuindo para a melhoria contínua e a inovação na indústria.
+# Reposit-rio-fontes-de-informa-o-e-banco-de-dados-<img width="1080" height="650" alt="Screenshot_2026-08-14-22-38-10-416_com canva editor-edit" src="https://github.com/user-attachments/assets/18bb2a6a-0c72-48f5-9a52-ed92544af937" />
+
+<br><br>
+
+## 📊 Análise de Dados — Excel
+
+🚛 Análise do mercado de *Operadores de Transporte Multimodal (OTM)* utilizando gráficos e fórmulas no Excel.
+
+🔎 O estudo buscou responder:
+- 🗺️ *Qual estado lidera o mercado e qual sua concentração regional?*
+- 🌎 *Qual é a participação das empresas estrangeiras no setor?*
+
+💡 Aplicação de *fórmulas, análise de dados e visualização* para transformar dados em informações relevantes.
+<img width="1215" height="685" alt="image" src="https://github.com/user-attachments/assets/97f26640-346b-4ab6-ad71-eb7c6e2652af" />
+
+<br><br>
+
+## 📊 Planilhas & Gráficos — Excel
+
+📁 Trabalho com *grandes bases de dados*, utilizando recursos avançados do Excel para organização e análise das informações.
+
+📈 Criação de *planilhas, gráficos e relatórios* para facilitar a interpretação dos dados.
+
+⚙️ Aplicação de *Excel Avançado* para tratamento, análise e visualização de dados.
+<img width="1594" height="741" alt="image" src="https://github.com/user-attachments/assets/469212bd-0b28-405b-9454-ff0a967cc8c9" />
+
+<br><br>
+
+## 📊 Dashboard — Power BI
+
+📈 Desenvolvimento de um *dashboard interativo* utilizando *Power BI* e *DAX*.
+
+🧮 Aplicação de *fórmulas DAX* para criação de métricas e análise dos dados.
+
+💡 Projeto desenvolvido para aprimorar conhecimentos em *Business Intelligence, análise de dados e visualização de informações*.
+<img width="1299" height="734" alt="image" src="https://github.com/user-attachments/assets/21e1d543-665c-459b-acb1-6dcd2255c841" />
+
+
 
 ---
 
@@ -125,21 +176,3 @@ Busco desenvolver minha carreira na interseção entre *gestão, tecnologia e an
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-
-> *"Aprendendo, desenvolvendo e transformando conhecimento em prática."*
-> ## 🚀 Futuro Profissional
-
-🎯 Meu objetivo é atuar na área de *Indústria 4.0*, com foco em:
-
-- ⚙️ *Analista de Processos*
-- 📊 *Gestão de Qualidade*
-- 🤖 *Tecnologias da Indústria 4.0*
-
-Busco desenvolver meus conhecimentos em *tecnologia, processos e qualidade*, contribuindo para a melhoria contínua e a inovação na indústria.
-# Reposit-rio-fontes-de-informa-o-e-banco-de-dados-<img width="1080" height="650" alt="Screenshot_2026-08-14-22-38-10-416_com canva editor-edit" src="https://github.com/user-attachments/assets/18bb2a6a-0c72-48f5-9a52-ed92544af937" />
-<img width="1215" height="685" alt="image" src="https://github.com/user-attachments/assets/97f26640-346b-4ab6-ad71-eb7c6e2652af" />
-
-<img width="1594" height="741" alt="image" src="https://github.com/user-attachments/assets/469212bd-0b28-405b-9454-ff0a967cc8c9" />
-<img width="1299" height="734" alt="image" src="https://github.com/user-attachments/assets/21e1d543-665c-459b-acb1-6dcd2255c841" />
-
-
