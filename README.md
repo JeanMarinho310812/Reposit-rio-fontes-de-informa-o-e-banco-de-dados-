@@ -18,20 +18,21 @@ Também venho ampliando meus conhecimentos em tecnologia por meio de cursos e es
 
 Atualmente, também estou *estudando inglês* e buscando constantemente desenvolver novas habilidades.
 
-## 📫 Contato
+## 📬 Contato
 
-<a href="mailto:jean.edsom@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-</a>
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jean.edsom@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
 
-<a href="hwww.linkedin.com/in/jean-marinho-a2a8a3195/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/jean-marinho-a2a8a3195/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-<a href="https://wa.me/5512996639747?text=Olá%20Jean,%20encontrei%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-
+  <a href="https://wa.me/5512996639747" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
 ---
 
 ## 📊 Principais conhecimentos
