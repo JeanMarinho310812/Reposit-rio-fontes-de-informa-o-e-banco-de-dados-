@@ -192,6 +192,25 @@ Busco desenvolver meus conhecimentos em *tecnologia, processos e qualidade*, con
 💡 Projeto desenvolvido para aprimorar conhecimentos em *Python, análise exploratória de dados, visualização estatística e Machine Learning*.
 <img width="684" height="441" alt="image" src="https://github.com/user-attachments/assets/94bce4c1-90bf-482d-8efd-7fe2ce37b095" />
 
+<br><br>
+
+# 🌍 Dashboard — Análise Global da Expectativa de Vida
+
+📊 Desenvolvimento de um **dashboard interativo no Power BI**, utilizando dados públicos da plataforma Our World in Data para analisar a expectativa de vida em diferentes países.
+
+📈 Criação de um **gráfico de linhas** para acompanhar a evolução histórica da expectativa de vida e identificar tendências ao longo dos anos.
+
+🌎 Desenvolvimento de um **gráfico de barras e mapa coroplético**, permitindo comparar países e visualizar a distribuição geográfica da expectativa de vida.
+
+🛠️ Utilização do **Power Query** para importação, tratamento e organização dos dados, além da construção de visualizações interativas.
+
+💡 Projeto desenvolvido para aprimorar conhecimentos em **Business Intelligence, análise de dados, indicadores demográficos e visualização de informações**.
+
+### 📚 Fonte dos dados 
+[Our World in Data — Life Expectancy](https://ourworldindata.org/grapher/life-expectancy)
+<img width="889" height="496" alt="image" src="https://github.com/user-attachments/assets/f372cbc9-0a12-4214-a175-3664c2c74e28" />
+
+
 
 
 
