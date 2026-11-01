@@ -162,6 +162,20 @@ Busco desenvolver meus conhecimentos em *tecnologia, processos e qualidade*, con
 💡 Projeto desenvolvido para aprimorar conhecimentos em *Business Intelligence, análise de dados e visualização de informações*.
 <img width="1299" height="734" alt="image" src="https://github.com/user-attachments/assets/21e1d543-665c-459b-acb1-6dcd2255c841" />
 
+<br><br>
+
+# 📊 Dashboard — Análise Financeira e Orçamentária
+
+📈 Desenvolvimento de um *dashboard interativo no Power BI*, utilizando dados públicos para análise financeira e orçamentária.
+
+💰 Monitoramento de indicadores como *dotação atualizada, despesas empenhadas, liquidadas e pagas*, acompanhando a evolução e a distribuição dos recursos.
+
+📊 Utilização de *Power Query e DAX* para tratamento de dados, criação de métricas e visualizações interativas.
+
+💡 Projeto desenvolvido para aprimorar conhecimentos em *Business Intelligence, análise de dados e gestão financeira*, auxiliando na interpretação de informações e na tomada de decisões.
+<img width="928" height="496" alt="image" src="https://github.com/user-attachments/assets/536d8586-59b3-4019-b6ac-51e454c86880" />
+
+
 
 
 ---
