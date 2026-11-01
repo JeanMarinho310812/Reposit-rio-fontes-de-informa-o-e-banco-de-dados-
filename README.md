@@ -175,6 +175,24 @@ Busco desenvolver meus conhecimentos em *tecnologia, processos e qualidade*, con
 💡 Projeto desenvolvido para aprimorar conhecimentos em *Business Intelligence, análise de dados e gestão financeira*, auxiliando na interpretação de informações e na tomada de decisões.
 <img width="928" height="496" alt="image" src="https://github.com/user-attachments/assets/536d8586-59b3-4019-b6ac-51e454c86880" />
 
+<br><br>
+
+# 📊 Análise de Dados — Regressão Linear com Python
+
+🐍 Desenvolvimento de um projeto no *Google Colab*, utilizando Python para extração, leitura e análise de dados de uma planilha contendo informações de temperatura e receita (Revenue).
+
+📋 Criação de códigos para importar os dados e visualizar as cinco primeiras linhas da base, permitindo verificar sua estrutura.
+
+📈 Elaboração de um *gráfico de dispersão* para analisar a relação entre temperatura e receita, identificando padrões e correlações.
+
+📉 Desenvolvimento de um *gráfico com linha de tendência*, permitindo visualizar o comportamento da receita conforme a variação da temperatura.
+
+🧮 Aplicação de *Regressão Linear Simples*, utilizando dados de teste para comparar valores reais e previstos, avaliando o desempenho do modelo por meio do RMSE.
+
+💡 Projeto desenvolvido para aprimorar conhecimentos em *Python, análise exploratória de dados, visualização estatística e Machine Learning*.
+<img width="684" height="441" alt="image" src="https://github.com/user-attachments/assets/94bce4c1-90bf-482d-8efd-7fe2ce37b095" />
+
+
 
 
 
